@@ -84,7 +84,7 @@ def main():
         handle_userinput(user_question)
 
     
-    pdf_directory = r"C:\Users\User\OneDrive\Desktop\datasets"
+    pdf_directory = r"Enter path of your directory where datasets are stored."
 
     
     if os.path.isdir(pdf_directory):
